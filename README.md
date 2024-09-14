@@ -1,3 +1,3 @@
-## Hi there I’m Aaditya Singh Negi👋
-##  I’m currently learning Python 
+## Hi there I’m Aaditya Singh Negi!👋
+##  I’m currently learning Python 😁
 
